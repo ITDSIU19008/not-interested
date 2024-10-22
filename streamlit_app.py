@@ -3,7 +3,7 @@ import os
 import base64
 
 # Đường dẫn đến ảnh
-image_path = "images/Tôm-Sticker_Part1_18.png"
+image_path = "images/Tomi-Sticker_Part1_18.png"
 
 # Kiểm tra xem ảnh có tồn tại không
 if os.path.exists(image_path):
