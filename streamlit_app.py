@@ -27,3 +27,4 @@ if os.path.exists(image_path):
     )
 else:
     st.error("Ảnh tomi.png không tồn tại trong thư mục 'images/'.")
+
