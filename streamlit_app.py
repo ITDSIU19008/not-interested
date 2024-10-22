@@ -16,7 +16,7 @@ if os.path.exists(image_path):
         f"""
         <div style="display: flex; flex-direction: column; align-items: center; height: 100vh; justify-content: center;">
             <img src="data:image/png;base64,{img_data}" style="max-width: 50%; height: auto;"/>
-            <a href="https://docs.google.com/forms/d/e/1FAIpQLSfp7fn-ncGWmHHoX4GYgEjSAjmWUcfFaUGnKTggx35p8OLu6A/viewform?pli=1" 
+            <a href="https://forms.gle/RHqUBMKBeeJUgMD6A" 
                target="_blank" 
                style="font-size: 20px; color: blue; text-decoration: none; margin-top: 10px; text-align: center; max-width: 600px;">
                 Nhấn vào đây, cho Tomi xin feedback để cải thiện hơn nha, Tomi luôn luôn lắng nghe và sẽ cố gắng hiểu nè!
