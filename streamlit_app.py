@@ -18,7 +18,7 @@ if os.path.exists(image_path):
             <img src="data:image/png;base64,{img_data}" style="max-width: 50%; height: auto;"/>
             <a href="https://docs.google.com/forms/d/e/1FAIpQLSfp7fn-ncGWmHHoX4GYgEjSAjmWUcfFaUGnKTggx35p8OLu6A/viewform?pli=1" 
                target="_blank" style="font-size: 20px; color: blue; text-decoration: none; margin-top: 10px;">
-                Đi tới biểu mẫu Google Form
+                Nhấn vào đây, cho Tomi xin feedback để cải thiện hơn nha, Tomi luôn luôn lắng nghe và sẽ cố gắng hiểu nè!
             </a>
         </div>
         """,
